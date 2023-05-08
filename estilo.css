@@ -41,6 +41,7 @@ button:hover {
     justify-content: center;
     padding: 30px;
     gap: 50px;
+    overflow: hidden;
 }
 
 .caja1 {
@@ -84,6 +85,7 @@ a {
     text-decoration: none;
     color: white;
 }
+
 .contenedor3 {
     margin-bottom: 40px;
 }
